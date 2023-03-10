@@ -1,0 +1,120 @@
+@media screen and  (max-width:2000px){
+
+
+    
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.a{
+    padding: 20px;
+
+}
+#name{
+    margin: 0% 15% 0% 0%;
+}
+#collect{
+    margin: 0% 15% 0% 0%;
+}
+.row{
+    display: flex;
+}
+#paragraph{
+    text-align: center;
+
+}
+
+.row1{
+    display: flex;
+    flex-direction: row;
+
+}
+.column2{
+    margin: 0% 20% 0% 0%;
+    font-size: large;
+
+}
+.mealcolumn{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5%;
+}
+.quality{
+    background-color: blanchedalmond;
+}
+
+.button{
+    display: inline-block;
+    background: #f59f00;
+    color: white;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
+}
+.offers{
+    display: flex;
+}
+.categories{
+    margin: 3% 0% 0% 5%;
+}
+.column3{
+    flex-basis: 30%;
+    min-width: 250px;
+    margin-bottom: 30px;
+}
+.column3 img{
+    width: 100%;
+
+} 
+.small-container{
+    display: flex;
+    flex-direction: row;
+   justify-content: space-between;
+   margin-left: 12%;
+
+}
+
+.f{
+    text-align: center;
+    
+}
+.outline{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: white;
+} 
+li{
+    list-style: none;
+}
+.mechanics{
+    display: flex;
+    gap: 40px;
+     margin-left: 30%; 
+}
+.appdiv{
+    background-color: blanchedalmond;
+}
+.download{
+    margin: 3% 0% 0% 5%;
+}
+.letter{
+     display: flex;  
+     margin: 3% 0% 2% 5%; 
+    
+
+}
+.email{
+    margin-top: 9%; 
+}
+.foot{
+    display: flex;
+    gap: 12%;
+    background-color: blanchedalmond;
+    color: black;
+    height: 35px;
+}
+.newsletter{
+    margin-bottom: 18%; 
+}
+}
